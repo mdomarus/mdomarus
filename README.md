@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Storybook-pink?style=flat&logo=storybook" alt="storybook" />
 <img src="https://img.shields.io/badge/-Cypress-white?style=flat&logo=cypress" alt="cypress" />
 <img src="https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=f5f5f5" alt="Docker" />
+<img src="https://img.shields.io/badge/-Kubernetes-%232496ED?style=flat&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
 <img src="https://img.shields.io/badge/-Jenkins-%23D24939?style=flat&logo=jenkins&logoColor=f5f5f5" alt="Jenkins" />
-  
 </div>
