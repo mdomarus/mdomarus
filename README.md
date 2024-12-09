@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React apps built with TypeScript
+- 🧑‍💻 I’m currently working on React apps built with TypeScript
 - 🌱 I’m currently learning Kubernetes for CKAD exam
+
+- 🔭 also... I'm currently looking for a new role!
 
 <!--
 **mdomarus/mdomarus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
