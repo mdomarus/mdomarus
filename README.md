@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Redux-%23764ABC?style=flat&logo=redux" alt="redux" />
 <img src="https://img.shields.io/badge/-TailwindCSS-%2306B6D4?style=flat&logo=tailwindcss&logoColor=f5f5f5" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/-CSS3-%23409ad6?style=flat&logo=css3" alt="css" />
-<img src="https://img.shields.io/badge/-SCSS-%23f4f6f7?style=flat&logo=sass" alt="scss" />
-<img src="https://img.shields.io/badge/-Visual Studio Code-blue?style=flat&logo=Visual Studio Code" alt="vsc" />
 <img src="https://img.shields.io/badge/-Git-%23f7f7f7?style=flat&logo=git" alt="git" />
 <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" alt="html" />
 <img src="https://img.shields.io/badge/-Figma-%232c2f42?style=flat&logo=figma" alt="figma" />
